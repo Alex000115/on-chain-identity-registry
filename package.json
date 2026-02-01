@@ -1,0 +1,8 @@
+{
+  "name": "on-chain-identity-registry",
+  "version": "1.0.0",
+  "description": "Soulbound-style identity management for EVM",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
